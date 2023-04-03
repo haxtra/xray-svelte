@@ -1,0 +1,12 @@
+{
+  "name": "xray-svelte",
+  "version": "0.9.0",
+  "description": "Interactive javascript object browser/inspector for Svelte",
+  "homepage": "https://github.com/haxtra/xray-svelte",
+  "repository": "github:haxtra/xray-svelte",
+  "main": "./src/XRay.svelte",
+  "scripts": {},
+  "keywords": ["web","component","devtool","svelte","xray"],
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT"
+}
