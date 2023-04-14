@@ -78,7 +78,7 @@ class XRay {
 		}
 	}
 
-	value(obj, path='') {
+	value(obj, path) {
 		/** Detect object type and return appropriate renderer **/
 
 		// check for circular

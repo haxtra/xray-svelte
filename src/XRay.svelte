@@ -11,7 +11,7 @@
 
 	const app = new XRayEngine(obj, {collapse, collapseExcept})
 
-	$: params = app.value(obj)
+	$: params = app.value(obj, '$')
 
 	const togglePanel = () => minimize = !minimize
 
