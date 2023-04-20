@@ -1,6 +1,10 @@
 # xray-svelte
 
-Interactive javascript object browser/inspector for Svelte ([live demo](https://xray.haxtra.com))
+JavaScript object browser for Svelte.js
+
+[Live demo](https://xray.haxtra.com)
+
+![Screenshot](https://media.haxtra.com/xray.png)
 
 
 ## Install
@@ -77,3 +81,5 @@ Clickable areas:
 ## License
 
 MIT
+
+![](https://hello.haxtra.com/gh-xray-svelte)
